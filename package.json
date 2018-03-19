@@ -1,5 +1,5 @@
 {
-  "name": "update-soap-server",
+  "name": "updated-soap-server",
   "version": "0.0.9",
   "description": "Soap server, using pure javascript.",
   "main": "./lib/soap-server",
