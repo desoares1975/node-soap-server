@@ -1,6 +1,6 @@
 {
   "name": "updated-soap-server",
-  "version": "0.0.9",
+  "version": "0.0.91",
   "description": "Soap server, using pure javascript.",
   "main": "./lib/soap-server",
   "scripts": {
@@ -16,7 +16,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "xml2js": "0.2.8",
-    "xml2json": "^0.11.0"
+    "xml2js": "0.4.19"
   }
 }
